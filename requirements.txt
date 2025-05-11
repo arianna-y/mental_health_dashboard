@@ -1,7 +1,7 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
 streamlit
 praw
-transformers==4.40.0
+transformers==4.37.0
 torch==2.0.1+cpu
 pandas
 matplotlib
